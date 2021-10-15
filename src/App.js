@@ -34,7 +34,7 @@ const App = () => {
   const CardsPage = data
     .slice(offset, offset + PER_PAGE)
     .map(({ id, name, text }) => (
-      <CardCol lg={4} sm={6} key={id}>
+      <CardCol lg={4} sm={4} key={id}>
         <CardLink href="http://mi-code.vercel.app/" target="_blank">
           <CardContent>
             <CardTitle>{name}</CardTitle>
