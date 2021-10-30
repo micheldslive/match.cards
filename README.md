@@ -12,7 +12,7 @@ Nesse teste, o desafio foi criar simples cards com paginação.
 
 ### 💻 Principais recursos:
 
-✔ Layout responsivo e Estilização CSS utilizando bootstrap.
+✔ Layout responsivo e Estilização CSS utilizando bootstrap / styled-components.
 
 ✔ Paginação utilizando react-paginate.
 
